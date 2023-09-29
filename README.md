@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdo100300500&label=Profile%20views&color=0e75b6&style=flat" alt="abdo100300500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdo100300500" alt="abdo100300500" /></a> </p>
 
 - 📫 How to reach me **abdelramanhassan74@gmail.com**
 
