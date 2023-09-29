@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abelrahman Hassan
-<img src="https://komarev.com/ghpvc/?username=AliiMuhammed&style=flat-square&label=VIEWS">
+<!-- <img src="https://komarev.com/ghpvc/?username=AliiMuhammed&style=flat-square&label=VIEWS"> -->
 </h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
